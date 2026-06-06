@@ -28,3 +28,47 @@ For questions regarding these Terms, please contact the application owner.
 This Service is currently developed and operated as a personal tool for analyzing the creator’s own TikTok content and audience feedback. It is not intended for collecting or analyzing data from third-party TikTok accounts.
 :::
 
+
+
+
+Privacy Policy
+
+Last updated: June 2026
+
+Introduction
+
+TikTok Comment Intelligence (“the Service”) respects your privacy and is committed to protecting your personal information.
+
+Information We Collect
+
+The Service may access information from your TikTok account, including your profile information, videos, and engagement data, solely for the purpose of providing analytics and insights.
+
+How We Use Information
+
+We use the collected information to:
+	•	Analyze comments and engagement on your own TikTok content.
+	•	Generate audience insights and analytics.
+	•	Improve the functionality of the Service.
+
+Data Sharing
+
+We do not sell, rent, or share your personal data with third parties.
+
+Data Security
+
+Reasonable measures are taken to protect the information processed by the Service.
+
+User Control
+
+You may stop using the Service at any time and revoke TikTok authorization through your TikTok account settings.
+
+Contact
+
+If you have any questions regarding this Privacy Policy, please contact the application owner.
+
+Personal Use Notice
+
+This Service is intended only for accessing and analyzing data from TikTok accounts owned or authorized by the user. The Service is not designed to collect or process data from third-party accounts without authorization.
+:::
+
+Ez MVP-re és TikTok Developer regisztrációhoz általában teljesen elegendő első körben.
